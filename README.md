@@ -2,7 +2,7 @@
 
 Sistem absensi mahasiswa berbasis **Face Recognition** menggunakan **Python, OpenCV, Flask, dan SQLite**.
 
-Proyek ini dibuat sebagai tugas UAS mata kuliah **Pengolahan Citra Digital** sekaligus sebagai portofolio Computer Vision.
+Proyek ini dibuat sebagai tugas UAS mata kuliah **Pengolahan Citra Digital**.
 
 ---
 
